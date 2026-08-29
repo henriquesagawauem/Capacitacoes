@@ -1,0 +1,15 @@
+# Executáveis (Windows e Unix/Linux/macOS)
+*.exe
+*.out
+*.app
+
+# Arquivos de objetos (Compilação intermediária)
+*.o
+*.obj
+
+# Bibliotecas compiladas (Estáticas e Dinâmicas)
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
