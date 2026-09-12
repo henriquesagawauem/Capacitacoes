@@ -7,7 +7,6 @@
 ![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
 ![UEM](https://img.shields.io/badge/UEM-Universidade%20Estadual%20de%20Maring%C3%A1-blue?style=for-the-badge)
 ![PET](https://img.shields.io/badge/PET-Inform%C3%A1tica-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/licença-MIT-lightgrey?style=for-the-badge)
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 
